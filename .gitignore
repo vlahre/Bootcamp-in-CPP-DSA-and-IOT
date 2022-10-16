@@ -31,7 +31,4 @@
 *.out
 *.app
 
-# Text
-*.txt
-
 .vscode
